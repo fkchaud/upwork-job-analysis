@@ -1,0 +1,168 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="ES6ConvertVarToLetConst" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="HtmlFormInputWithoutLabel" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSLastCommaInArrayLiteral" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="JSLastCommaInObjectLiteral" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyAttributeOutsideInitInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="3.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.8" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="124">
+            <item index="0" class="java.lang.String" itemvalue="event_service" />
+            <item index="1" class="java.lang.String" itemvalue="M2Crypto" />
+            <item index="2" class="java.lang.String" itemvalue="order_service" />
+            <item index="3" class="java.lang.String" itemvalue="MySQL-python" />
+            <item index="4" class="java.lang.String" itemvalue="pyhash" />
+            <item index="5" class="java.lang.String" itemvalue="celery" />
+            <item index="6" class="java.lang.String" itemvalue="ebsoa" />
+            <item index="7" class="java.lang.String" itemvalue="eb_constants" />
+            <item index="8" class="java.lang.String" itemvalue="ticket_availability_service" />
+            <item index="9" class="java.lang.String" itemvalue="pricing_service" />
+            <item index="10" class="java.lang.String" itemvalue="backports_functools_lru_cache" />
+            <item index="11" class="java.lang.String" itemvalue="gevent" />
+            <item index="12" class="java.lang.String" itemvalue="eb-auth-utils" />
+            <item index="13" class="java.lang.String" itemvalue="billing_service" />
+            <item index="14" class="java.lang.String" itemvalue="ebgeo" />
+            <item index="15" class="java.lang.String" itemvalue="urllib3" />
+            <item index="16" class="java.lang.String" itemvalue="requests" />
+            <item index="17" class="java.lang.String" itemvalue="journal_service" />
+            <item index="18" class="java.lang.String" itemvalue="ebtrace" />
+            <item index="19" class="java.lang.String" itemvalue="ebutils" />
+            <item index="20" class="java.lang.String" itemvalue="recommender_library" />
+            <item index="21" class="java.lang.String" itemvalue="ebgargoyle" />
+            <item index="22" class="java.lang.String" itemvalue="service_ebsoa" />
+            <item index="23" class="java.lang.String" itemvalue="risk_utils" />
+            <item index="24" class="java.lang.String" itemvalue="report_service" />
+            <item index="25" class="java.lang.String" itemvalue="human_review_library" />
+            <item index="26" class="java.lang.String" itemvalue="payment_service_client" />
+            <item index="27" class="java.lang.String" itemvalue="tikibar" />
+            <item index="28" class="java.lang.String" itemvalue="permissions" />
+            <item index="29" class="java.lang.String" itemvalue="django-piston" />
+            <item index="30" class="java.lang.String" itemvalue="ebdjango" />
+            <item index="31" class="java.lang.String" itemvalue="eb-soa-gargoyle" />
+            <item index="32" class="java.lang.String" itemvalue="service_django" />
+            <item index="33" class="java.lang.String" itemvalue="artist_service" />
+            <item index="34" class="java.lang.String" itemvalue="mysqlclient" />
+            <item index="35" class="java.lang.String" itemvalue="traitlets" />
+            <item index="36" class="java.lang.String" itemvalue="payment-service-client" />
+            <item index="37" class="java.lang.String" itemvalue="html5lib" />
+            <item index="38" class="java.lang.String" itemvalue="nexus-yplan" />
+            <item index="39" class="java.lang.String" itemvalue="factory-boy" />
+            <item index="40" class="java.lang.String" itemvalue="pytest-django" />
+            <item index="41" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="42" class="java.lang.String" itemvalue="tailer" />
+            <item index="43" class="java.lang.String" itemvalue="pickleshare" />
+            <item index="44" class="java.lang.String" itemvalue="marshmallow" />
+            <item index="45" class="java.lang.String" itemvalue="py" />
+            <item index="46" class="java.lang.String" itemvalue="kombu" />
+            <item index="47" class="java.lang.String" itemvalue="pycparser" />
+            <item index="48" class="java.lang.String" itemvalue="markupsafe" />
+            <item index="49" class="java.lang.String" itemvalue="redis" />
+            <item index="50" class="java.lang.String" itemvalue="ipython-genutils" />
+            <item index="51" class="java.lang.String" itemvalue="service-ebsoa" />
+            <item index="52" class="java.lang.String" itemvalue="bleach" />
+            <item index="53" class="java.lang.String" itemvalue="certifi" />
+            <item index="54" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="55" class="java.lang.String" itemvalue="vine" />
+            <item index="56" class="java.lang.String" itemvalue="pynacl" />
+            <item index="57" class="java.lang.String" itemvalue="xxhash" />
+            <item index="58" class="java.lang.String" itemvalue="ebsecure" />
+            <item index="59" class="java.lang.String" itemvalue="consistent-hash" />
+            <item index="60" class="java.lang.String" itemvalue="boto" />
+            <item index="61" class="java.lang.String" itemvalue="iniconfig" />
+            <item index="62" class="java.lang.String" itemvalue="schwifty" />
+            <item index="63" class="java.lang.String" itemvalue="cryptography" />
+            <item index="64" class="java.lang.String" itemvalue="gargoyle-yplan" />
+            <item index="65" class="java.lang.String" itemvalue="django-jsonfield" />
+            <item index="66" class="java.lang.String" itemvalue="attrs" />
+            <item index="67" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="68" class="java.lang.String" itemvalue="jedi" />
+            <item index="69" class="java.lang.String" itemvalue="backcall" />
+            <item index="70" class="java.lang.String" itemvalue="msgpack" />
+            <item index="71" class="java.lang.String" itemvalue="fluff" />
+            <item index="72" class="java.lang.String" itemvalue="idna" />
+            <item index="73" class="java.lang.String" itemvalue="pysoa" />
+            <item index="74" class="java.lang.String" itemvalue="decorator" />
+            <item index="75" class="java.lang.String" itemvalue="ptyprocess" />
+            <item index="76" class="java.lang.String" itemvalue="pluggy" />
+            <item index="77" class="java.lang.String" itemvalue="cffi" />
+            <item index="78" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="79" class="java.lang.String" itemvalue="pyasn1" />
+            <item index="80" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="81" class="java.lang.String" itemvalue="pymetrics" />
+            <item index="82" class="java.lang.String" itemvalue="pycrypto" />
+            <item index="83" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="84" class="java.lang.String" itemvalue="ipdb" />
+            <item index="85" class="java.lang.String" itemvalue="parameterized" />
+            <item index="86" class="java.lang.String" itemvalue="pytest-cov" />
+            <item index="87" class="java.lang.String" itemvalue="currint" />
+            <item index="88" class="java.lang.String" itemvalue="zipp" />
+            <item index="89" class="java.lang.String" itemvalue="freezegun" />
+            <item index="90" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="91" class="java.lang.String" itemvalue="conformity" />
+            <item index="92" class="java.lang.String" itemvalue="pyhashivault" />
+            <item index="93" class="java.lang.String" itemvalue="billiard" />
+            <item index="94" class="java.lang.String" itemvalue="pygments" />
+            <item index="95" class="java.lang.String" itemvalue="coverage" />
+            <item index="96" class="java.lang.String" itemvalue="six" />
+            <item index="97" class="java.lang.String" itemvalue="raven" />
+            <item index="98" class="java.lang.String" itemvalue="parso" />
+            <item index="99" class="java.lang.String" itemvalue="pytest" />
+            <item index="100" class="java.lang.String" itemvalue="amqp" />
+            <item index="101" class="java.lang.String" itemvalue="fakeredis" />
+            <item index="102" class="java.lang.String" itemvalue="text-unidecode" />
+            <item index="103" class="java.lang.String" itemvalue="ipython" />
+            <item index="104" class="java.lang.String" itemvalue="packaging" />
+            <item index="105" class="java.lang.String" itemvalue="toml" />
+            <item index="106" class="java.lang.String" itemvalue="python-memcached" />
+            <item index="107" class="java.lang.String" itemvalue="ddtrace" />
+            <item index="108" class="java.lang.String" itemvalue="addict" />
+            <item index="109" class="java.lang.String" itemvalue="chardet" />
+            <item index="110" class="java.lang.String" itemvalue="pytest-runner" />
+            <item index="111" class="java.lang.String" itemvalue="django" />
+            <item index="112" class="java.lang.String" itemvalue="django-bitfield" />
+            <item index="113" class="java.lang.String" itemvalue="eb-i18n" />
+            <item index="114" class="java.lang.String" itemvalue="faker" />
+            <item index="115" class="java.lang.String" itemvalue="babel" />
+            <item index="116" class="java.lang.String" itemvalue="sentinel-sharded-redis" />
+            <item index="117" class="java.lang.String" itemvalue="pytz" />
+            <item index="118" class="java.lang.String" itemvalue="iso3166" />
+            <item index="119" class="java.lang.String" itemvalue="django-modeldict-yplan" />
+            <item index="120" class="java.lang.String" itemvalue="webencodings" />
+            <item index="121" class="java.lang.String" itemvalue="eb-constants" />
+            <item index="122" class="java.lang.String" itemvalue="mccabe" />
+            <item index="123" class="java.lang.String" itemvalue="flake8" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N813" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="ebapps.attendees.models.Attendee.id" />
+          <option value="ebapps.orders.models.Order.id" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
